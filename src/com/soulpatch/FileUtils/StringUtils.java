@@ -1,4 +1,4 @@
-package FileUtils;
+package com.soulpatch.fileUtils;
 
 public class StringUtils {
 	public static String GIT_HOME = "git_home";
