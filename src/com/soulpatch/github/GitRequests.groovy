@@ -1,10 +1,9 @@
 package com.soulpatch.github
 
-import com.soulpatch.github.github.datamodels.Branch
-import com.soulpatch.github.github.datamodels.Repository
-import com.soulpatch.*
-
-import static org.apache.hadoop.util.StringUtils.*
+import com.soulpatch.github.datamodels.Branch
+import com.soulpatch.github.datamodels.Repository
+import com.soulpatch.fileUtils.StringUtils
+import com.soulpatch.fileUtils.ReadProperties;
 
 public class GitRequests {
 

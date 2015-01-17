@@ -1,4 +1,4 @@
-package FileUtils;
+package com.soulpatch.fileUtils;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
